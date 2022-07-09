@@ -165,10 +165,6 @@ body {
   opacity: 1;
 }
 
-/* .card__img {
-  border-radius: 0.5rem;
-} */
-
 .card__info {
   display: flex;
   justify-content: space-between;
