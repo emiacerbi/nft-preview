@@ -156,7 +156,7 @@ body {
   transition: 0.3s ease;
   opacity: 0;
   background-color: var(--clr-primary-overlay);
-  background-image: url(public/icon-view.svg);
+  background-image: url(/icon-view.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -177,7 +177,7 @@ body {
 }
 
 .card__price::before {
-  content: url(icon-ethereum.svg);
+  content: url(/icon-ethereum.svg);
   padding-top: 0.3rem;
 }
 
@@ -188,7 +188,7 @@ body {
 }
 
 .card__time::before {
-  content: url(icon-clock.svg);
+  content: url(/icon-clock.svg);
   padding-top: 0.3rem;
 }
 
